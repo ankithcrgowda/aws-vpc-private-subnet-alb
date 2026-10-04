@@ -131,7 +131,7 @@ Open `http://<ALB_DNS_NAME>` and refresh several times. The page switches betwee
 ![NAT gateways](images/NAT_gateways.png)
 
 ### Security groups
-![Security groups](images/security_groups.png)
+![Security groups](images/security_group_rules.png)
 
 ### Auto Scaling Group
 ![Auto Scaling Group](images/auto_scale_group.png)
