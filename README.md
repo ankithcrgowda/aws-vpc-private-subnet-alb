@@ -155,7 +155,7 @@ Both servers log a `GET /` with status 200 every 30 seconds from 10.0.14.187 and
 ![Server 1 logs](images/server_running_in_1st_instance.png)
 ![Server 2 logs](images/server_running_in_2nd_instance.png)
 
-## Troubleshooting
+<!-- ## Troubleshooting
 
 ### Problem: targets showed Unhealthy in the target group
 
@@ -163,7 +163,7 @@ Both servers log a `GET /` with status 200 every 30 seconds from 10.0.14.187 and
 
 **Cause:** [write your actual cause]
 
-**Fix:** [write what you changed]
+**Fix:** [write what you changed] -->
 
 **Checks I used:**
 
