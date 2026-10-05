@@ -3,8 +3,9 @@
 A production-style AWS setup where the web application runs on EC2 instances in **private subnets** with no public IP. Users reach it only through an **Application Load Balancer** in the public subnets.
 
 **Region:** ap-south-1 (Mumbai)
-**Demo video:** [add link]
 
+### Demo video: [Watch on YouTube](https://youtu.be/m_M5Wf2LK78)
+[![Demo video thumbnail](https://img.youtube.com/vi/m_M5Wf2LK78/maxresdefault.jpg)](https://youtu.be/m_M5Wf2LK78)
 ## Architecture
 
 ![Architecture diagram](images/architecture.png)
